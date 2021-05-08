@@ -4,5 +4,8 @@
 @import "{{ site.theme }}";
 
 header a.button {
-    background: transparent url(../images/linkedin-icon.png) 0 0 no-repeat;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: transparent url(../images/linkedin-button.png) 0 0 no-repeat;
 }
